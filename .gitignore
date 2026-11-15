@@ -1,0 +1,19 @@
+# Compiled binaries and build artifacts
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.out
+*.o
+
+# Visual Studio / IDE folders
+.vs/
+out/
+build/
+Debug/
+Release/
+x64/
+
+# Temporary archive
+*.zip
